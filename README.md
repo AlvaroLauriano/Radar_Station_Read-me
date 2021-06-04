@@ -15,18 +15,11 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 
 
-# Tecnologias utilizalllldass
-## Back end
+#  O Projeto foi desenvolvido utilizando as seguintes Tecnologias:
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
+- JS 
 - React Native
-- Apex Charts
-- Expo
+
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -34,8 +27,6 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 # Como executar o projeto
 
-
-## Front Mobile
 Pré-requisitos: npm / yarn
 
 ```bash
