@@ -18,7 +18,7 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
-# Tecnologias utilizadas
+# Tecnologias utilizadass
 ## Back end
 - Java
 - Spring Boot
