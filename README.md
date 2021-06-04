@@ -12,13 +12,8 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 ![Mobile 3](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20de%20cadastro.png)![Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/maps.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.000000png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
 # Tecnologias utilizalllldass
 ## Back end
@@ -39,39 +34,20 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
+## Front Mobile
 Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/Pedrolustosa/RadarStation.git
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto
+cd RadarStation.git
 
 # instalar dependências
 yarn install
 
 # executar o projeto
-yarn start
+npx react-native run-android
 ```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
