@@ -20,6 +20,9 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 - JS 
 - React Native
 
+# Como Baixar o Projeto
+
+
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
