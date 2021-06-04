@@ -2,6 +2,7 @@
 <h1 align="center"> 
 <img src=https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/_Logotipo-.png >
 </h1>
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -40,7 +41,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/Pedrolustosa/RadarStation.git
 
 # entrar na pasta do projeto
-cd RadarStation.git
+cd 
 
 # instalar dependências
 yarn install
