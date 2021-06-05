@@ -3,11 +3,12 @@
 <img src=https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/_Logotipo-.png >
 </h1>
 
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda
+⛽ RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda.
 
 A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis e mostrando as avaliações feitas pelos usuários.
 
@@ -19,12 +20,26 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 
 
-#  O Projeto foi desenvolvido utilizando as seguintes Tecnologias:
+# 📱 O Projeto foi desenvolvido utilizando as seguintes Tecnologias:
 - Java
 - JS 
 - React Native
 
-# Como Baixar o Projeto
+# 📥 Como Baixar o Projeto
+
+```bash
+# Clonar repositório
+git clone https://github.com/Pedrolustosa/RadarStation.git
+
+# Entrar na pasta do projeto
+cd 
+
+# Instalar dependências
+yarn install
+
+# Executar o projeto
+npx react-native run-android
+```
 
 
 ## Implantação em produção
@@ -36,16 +51,4 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 Pré-requisitos: npm / yarn
 
-```bash
-# clonar repositório
-git clone https://github.com/Pedrolustosa/RadarStation.git
 
-# entrar na pasta do projeto
-cd 
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-npx react-native run-android
-```
