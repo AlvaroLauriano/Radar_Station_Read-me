@@ -12,6 +12,12 @@
 
 A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis e mostrando as avaliações feitas pelos usuários.
 
+
+# ✅ Status do Projeto
+<h4 align="center"> 
+	🚧  Radar Station 🚀 Em construção...  🚧
+</h4>
+
 ## Layout mobile
 ![Mobile 1](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%20vindo.png)![Mobile 2](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%202.png) 
 
@@ -20,35 +26,35 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 
 
-# 📱 O Projeto foi desenvolvido utilizando as seguintes Tecnologias:
+# 📱 Tecnologias Utilizadas:
 - Java
 - JS 
 - React Native
 
-# 📥 Como Baixar o Projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [AndroidStudio](https://developer.android.com/studio), [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### # 📥 Como Baixar e 🎲 Rodar o Projeto.  
 
 ```bash
-# Clonar repositório
-git clone https://github.com/Pedrolustosa/RadarStation.git
+# Clone este repositório
+$ git clone  https://github.com/Pedrolustosa/RadarStation.git
 
-# Entrar na pasta do projeto
-cd 
+# Acesse a pasta do projeto no terminal/cmd
+$ cd 
 
-# Instalar dependências
-yarn install
+# Instale as dependências
+$ yarn install
 
 # Executar o projeto
 npx react-native run-android
-```
 
 
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
 
-# Como executar o projeto
 
-Pré-requisitos: npm / yarn
 
 
