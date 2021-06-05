@@ -7,8 +7,10 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/LICENSE) 
 
 # Sobre o projeto
+    
+<img src=https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/uninassau-logo%20(1).png>
 
-<img src=https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/uninassau-logo%20(1).png](https://nodejs.org/en/> RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda.
+⛽ RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda.
 
 A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis e mostrando as avaliações feitas pelos usuários.
 
