@@ -7,7 +7,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/LICENSE) 
 
 # Sobre o projeto
-<img src=https://iconape.com/uninassau-logo-logo-icon-svg-png.html>
+<img src=https://iconape.com/uninassau-logo-logo-icon-svg-png>
 
 ⛽ RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda.
 
