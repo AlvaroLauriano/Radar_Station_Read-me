@@ -35,7 +35,7 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [AndroidStudio](https://developer.android.com/studio), [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [AndroidStudio](https://developer.android.com/studio) e o  [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### # 📥 Como Baixar e 🎲 Rodar o Projeto.  
