@@ -51,7 +51,7 @@ $ cd
 $ yarn install
 
 # Executar o projeto
-
+$ npx react-native run-android
 
 
 
