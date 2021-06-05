@@ -20,7 +20,10 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 </h4>
 
 # Layout mobile
-![Mobile 1](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%20vindo.png)![Mobile 2](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%202.png)![Mobile 3](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20de%20cadastro.png)![Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/maps.png)![GIF 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/gif-radar.gif)
+![Mobile 1](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%20vindo.png)![Mobile 2](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%202.png)!
+[Mobile 3](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20de%20cadastro.png)!
+[Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/maps.png)!
+[GIF 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/gif-radar.gif)
 
 
 
