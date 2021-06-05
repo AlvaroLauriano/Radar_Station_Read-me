@@ -27,9 +27,9 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 
 # 📱 Tecnologias Utilizadas:
-- Java
+- JavaScript 
 - React Native
-- Firebase
+- Firebase (DB)
 
 
 ### Pré-requisitos
