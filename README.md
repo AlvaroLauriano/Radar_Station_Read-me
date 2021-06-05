@@ -7,6 +7,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/LICENSE) 
 
 # Sobre o projeto
+<img src=https://iconape.com/uninassau-logo-logo-icon-svg-png.html>
 
 ⛽ RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Uninassau Olinda.
 
@@ -18,10 +19,14 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 	🚧  Radar Station 🚀 Em construção...  🚧
 </h4>
 
-## Layout mobile
+# Layout mobile
 ![Mobile 1](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%20vindo.png)![Mobile 2](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20bem%202.png) 
 
 ![Mobile 3](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/tela%20de%20cadastro.png)![Mobile 4](https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/maps.png)
+
+
+
+
 
 
 
@@ -37,6 +42,8 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [AndroidStudio](https://developer.android.com/studio) e o  [jdk8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
 
 ### # 📥 Como Baixar e 🎲 Rodar o Projeto.  
 
