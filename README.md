@@ -11,7 +11,7 @@
 
 <img src=https://github.com/AlvaroLauriano/Radar_Station_Read-me/blob/main/assets/uninassau-logo%20(1).png> RadarStation é uma aplicação mobile construída durante o 7ª período do Curso de Sistemas de Informação da Faculdade Uninassau Olinda.
 
-A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis e mostrando as avaliações feitas pelos usuários.
+A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da sua localização, exibindo os preços dos combustíveis..
 
 
 # ✅ Status do Projeto
@@ -28,8 +28,8 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 # 📱 Tecnologias Utilizadas:
 - Java
-- JS 
 - React Native
+- Firebase
 
 
 ### Pré-requisitos
