@@ -16,7 +16,7 @@ A aplicação foi desenvolvida para mostrar postos e gasolina mais próximo da s
 
 # ✅ Status do Projeto
 <h4 align="center"> 
-	🚧  Radar Station 🚀 Em construção...  🚧
+	🚧 Radar Station 🚀 Em construção... 🚧
 </h4>
 
 # Layout mobile
